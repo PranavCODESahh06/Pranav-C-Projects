@@ -1,9 +1,3 @@
-//********************************************************************
-//Name: Pranav Vivekanandan
-//Class: COSC 1435 Spring 2026
-//Instructor: Mamta Yadav
-//Assignment 5 Problem 1
-//Date: 3/24/2026
 //Program description: this program gets the sizes and the quantity of the coffees that needs to be ordered from the user and gives out the total price the user needs to pay
 //*********************************************************************
 #include <iostream>

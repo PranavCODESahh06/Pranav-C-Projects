@@ -1,9 +1,3 @@
-//********************************************************************
-//Name: Pranav Vivekanandan
-//Class: COSC 1435 Spring 2026
-//Instructor: Mamta Yadav
-//Assignment 5 Problem 1
-//Date: 3/24/2026
 //Program description: This program helps a user troubleshoot a bad Wi-Fi signal with the help of getting yes, or no answers from the user
 //*********************************************************************
 #include <iostream>

@@ -1,9 +1,3 @@
-//********************************************************************
-//Name: Pranav Vivekanandan
-//Class: COSC 1435 Spring 2026
-//Instructor: Mamta Yadav
-//Assignment 6 Problem 3
-//Date:4/9/2026
 //Program description: This program reads daily step counts from a file to calculate and display the maximum, minimum, and average steps for each month in a formatted table
 //*********************************************************************
 #include <iostream>

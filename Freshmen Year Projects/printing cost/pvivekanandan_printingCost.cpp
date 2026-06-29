@@ -1,9 +1,3 @@
-//********************************************************************
-//Name: Pranav Vivekanandan
-//Class: COSC 1435 Spring 2026
-//Instructor: Mamta Yadav
-//Assignment 3 Problem 6
-//Date: 3/5/2026
 //Program description: the program gets the number of pages to print and the cost per page to print then calculates the total cost of printing 
 //*********************************************************************
 #include <iostream>

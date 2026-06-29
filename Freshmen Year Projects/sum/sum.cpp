@@ -1,9 +1,3 @@
-//********************************************************************
-//Name: Pranav Vivekanandan
-//Class: COSC 1435 Spring 2026
-//Instructor: Mamta Yadav
-//Assignment 6 Problem 2
-//Date:4/9/2026
 //Program description: This program finds the total sum of all numbers up to a integer provided byt he user and lists every odd number in that range.
 //*********************************************************************
 #include <iostream>

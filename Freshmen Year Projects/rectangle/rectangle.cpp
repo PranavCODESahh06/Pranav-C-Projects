@@ -1,15 +1,3 @@
-//*******************************************************************
-
-//Name: Pranav Vivekanandan
-
-//Class: COSC 1435.001 Spring 2026
-
-//Instructor: Dr. Mamta Yadav
-
-//Lab 9
-
-//Date: 20/3/2026
-
 //Program description: the program validates the performance scare entered by the user and determines if the result is satisfactory or needs improvement
 //******************************************************************
 #include <iostream>

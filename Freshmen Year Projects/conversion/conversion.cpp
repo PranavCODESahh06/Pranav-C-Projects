@@ -1,15 +1,3 @@
-//*******************************************************************
-
-//Name: Pranav Vivekanandan
-
-//Class: COSC 1435.001 Spring 2026
-
-//Instructor: Dr. Mamta Yadav
-
-//Lab 13 problem 7
-
-//Date: 4/17/2026
-
 //Program description:This program takes measurements in inches, pounds, and Fahrenheit from user and uses functions to convert and display them in a clean results table. //*******************************************************************
 #include <iostream>
 using namespace std;

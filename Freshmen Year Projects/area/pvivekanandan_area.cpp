@@ -1,9 +1,3 @@
-//********************************************************************
-//Name: Pranav Vivekanandan
-//Class: COSC 1435 Spring 2026
-//Instructor: Mamta Yadav
-//Assignment 8 Problem 2
-//Date: 4/30/26
 //Program description: Uses overloaded functions to calculate the areas for rectangles and circles with pass by reference
 //*********************************************************************
 

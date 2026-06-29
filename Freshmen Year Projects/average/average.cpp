@@ -1,9 +1,3 @@
-//********************************************************************
-//Name:Pranav Vivekanandan
-//Class: COSC 1435 Spring 2026
-//Instructor: Mamta Yadav
-//Assignment 6 Problem 1
-//Date:4/9/2026
 //Program description: This program calculates and displays the sum and average of all even integers within the range given by the user.
 //*********************************************************************
 #include <iostream>

@@ -1,9 +1,3 @@
-//********************************************************************
-//Name: Pranav Vivekanandan
-//Class: COSC 1435 Spring 2026
-//Instructor: Dr. Mamta Yadav
-//Assignment 8 Problem 1
-//Date: 4/30/26
 //Program description: A program figures out the hotel costs for different guests based on membership and room choices
 //********************************************************************
 

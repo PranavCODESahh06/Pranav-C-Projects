@@ -1,9 +1,3 @@
-//*******************************************************************
-//Name:Pranav Vivekanandan
-//Class: COSC 1435 Spring 2026
-//Instructor: Mamta Yadav
-//Assignment 4 Problem 4
-//Date:3/10/2026
 //Program description: this program that needs to be purchased based on the diameter of the pizza and the number of people attending the party
 #include <iostream>
 #include <iomanip>

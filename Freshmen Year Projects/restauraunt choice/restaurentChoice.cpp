@@ -1,9 +1,3 @@
-//********************************************************************
-//Name: Pranav Vivekanandan
-//Class: COSC 1435 Spring 2026
-//Instructor: Mamta Yadav
-//Assignment 5 Problem 1
-//Date: 3/24/2026
 //Program description: This program helps the user choose between restaurants based on if the users friends are vegetarian, vegan or gluten-free
 //*********************************************************************
 #include <iostream>

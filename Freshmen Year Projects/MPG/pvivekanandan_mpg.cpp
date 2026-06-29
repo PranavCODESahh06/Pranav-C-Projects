@@ -1,9 +1,3 @@
-//********************************************************************
-//Name: Pranav Vivekanandan
-//Class: COSC 1435 Spring 2026
-//Instructor: Dr. Mamta Yadav
-//Assignment 8 Problem 4
-//Date: 4/30/26
 //Program description: Calculates miles per gallon for different vehicles and identifies the best and worst mpg
 //*********************************************************************
 #include <iostream>

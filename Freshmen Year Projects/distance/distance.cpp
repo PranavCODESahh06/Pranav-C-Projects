@@ -1,15 +1,3 @@
-//*******************************************************************
-
-//Name: Pranav Vivekanandan
-
-//Class: COSC 1435.001 Spring 2026
-
-//Instructor: Dr. Mamta Yadav
-
-//Lab 7 Part 2
-
-//Date: 3/6/2026
-
 //Program description: the program gets the speed and time from user and calculates distance
 
 //*******************************************************************

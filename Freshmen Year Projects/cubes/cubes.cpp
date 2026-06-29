@@ -1,15 +1,3 @@
-//*******************************************************************
-
-//Name: Pranav Vivekanandan
-
-//Class: COSC 1435.001 Spring 2026
-
-//Instructor: Dr. Mamta Yadav
-
-//Lab 10 problem 2
-
-//Date: 3/27/2026
-
 //Program description: the program print the cubes from numbers 1 through 10
 
 //*******************************************************************

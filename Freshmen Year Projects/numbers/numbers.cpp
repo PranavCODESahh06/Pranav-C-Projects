@@ -1,15 +1,3 @@
-//*******************************************************************
-
-//Name: Pranav Vivekanandan
-
-//Class: COSC 1435.001 Spring 2026
-
-//Instructor: Dr. Mamta Yadav
-
-//Lab 10 problem 1
-
-//Date: 3/27/2026
-
 //Program description:This program asks the user for numbers until they enter -1 and counts how many zeros were entered.
 //*******************************************************************
 #include <iostream>
